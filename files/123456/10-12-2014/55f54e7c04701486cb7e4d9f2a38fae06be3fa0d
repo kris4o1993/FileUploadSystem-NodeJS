@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)http://unwe.bg/bg/timetables/semesterresult?spec=1060&sem=7&vo=1 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>
+Разписание за Бизнес информатика с преп. на английски, семестър 7
+</title>
+<meta name="description" content="Бизнес комуникации - К.СТЕФАНОВА; 				  
+Визуално програмиране - А.МУРДЖЕВА; 				  
+Визуално програмиране - В.МИХОВА; 				  
+Проектиране на информационни системи  - К.СТЕФАНОВА; 				  
+Проектиране на информационни системи  - П.МИЛЕВ; 				  
+">
+<style type="text/css">
+body
+{
+	background-color:#eee;
+	font-family:"Segoe UI",Tahoma,sans-serif;
+	font-size:12px;
+}
+
+.timetable 
+{
+	width:50%;
+	border-collapse:collapse;
+	background-color:#fff;
+	text-align: center;
+}
+.timetable th
+{
+	font-weight:bold;
+	text-align:center;
+	background-color:#760e26;
+	color:#fff;
+	padding:4px;
+	border:1px solid #000;
+	font-size:12px;
+}
+.timetable td
+{
+	border:1px solid #999;
+	padding:4px;
+	font-size:14px;
+	vertical-align:top;
+}
+a,a:link,a:hover,a:visited,a:active
+{
+	color:#069;
+	text-decoration:none;
+}
+
+
+</style>
+<style type="text/css" media="print">
+body { background-color:#fff; }
+a,a:link,a:hover,a:visited,a:active { color:#000; }
+</style>
+<script type="text/javascript" async="" src="./Разписание за Бизнес информатика с преп. на английски, семестър 7_files/ga.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-26421303-1']);
+_gaq.push(['_setDomainName', 'unwe.bg']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<style type="text/css"></style></head>
+<body>
+
+<table class="timetable">
+	<thead>
+	<tr>
+		<th><abbr title="Поток / Група">П/Г</abbr></th>
+		<th>ден</th>
+		<th>час</th>
+		<th>дисциплина</th>
+		<th>тип</th>
+		<th>преподавател</th>
+		<th>зала</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td>
+			133
+		</td>
+		<td>
+			вторник
+		</td>
+		<td>16.00 - 17.30</td>
+		<td>Проектиране на информационни системи </td>
+		<td><abbr title="Лекция">Л</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/kstefanova/?view=teaching">Проф. д-р К.СТЕФАНОВА</a>
+		</td>
+		
+		<td>4005</td>
+	</tr>
+	<tr>
+		<td>
+			133
+		</td>
+		<td>
+			четвъртък
+		</td>
+		<td>09.00 - 10.30</td>
+		<td>Визуално програмиране</td>
+		<td><abbr title="Лекция">Л</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/amurdjeva/?view=teaching">Доц. д-р А.МУРДЖЕВА</a>
+		</td>
+		
+		<td>П035</td>
+	</tr>
+	<tr>
+		<td>
+			133
+		</td>
+		<td>
+			четвъртък
+		</td>
+		<td>10.45 - 12.15</td>
+		<td>Програмиране в бази данни</td>
+		<td><abbr title="Лекция">Л</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/amurdjeva/?view=teaching">Доц. д-р А.МУРДЖЕВА</a>
+		</td>
+		
+		<td>П035</td>
+	</tr>
+	<tr>
+		<td>
+			133
+		</td>
+		<td>
+			четвъртък
+		</td>
+		<td>14.15 - 15.45</td>
+		<td>Технологии за изграждане на Уеб системи </td>
+		<td><abbr title="Лекция">Л</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/mtzaneva/?view=teaching">Доц. д-р М.ЦАНЕВА</a>
+		</td>
+		
+		<td>2065</td>
+	</tr>
+	<tr>
+		<td>
+			133
+		</td>
+		<td>
+			четвъртък
+		</td>
+		<td>16.00 - 17.30</td>
+		<td>Модели за изграждане на интернет приложения </td>
+		<td><abbr title="Лекция">Л</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/dvelev/?view=teaching">Проф. д-р Д.ВЕЛЕВ</a>
+		</td>
+		
+		<td>2067</td>
+	</tr>
+	<tr>
+		<td>
+			1315
+		</td>
+		<td>
+			понеделник
+		</td>
+		<td>07.15 - 08.45</td>
+		<td>Визуално програмиране</td>
+		<td><abbr title="Упражнение">У</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/vmihova/?view=teaching">Ас.  В.МИХОВА</a>
+		</td>
+		
+		<td>2056</td>
+	</tr>
+	<tr>
+		<td>
+			1315
+		</td>
+		<td>
+			понеделник
+		</td>
+		<td>09.00 - 10.30</td>
+		<td>Проектиране на информационни системи </td>
+		<td><abbr title="Упражнение">У</abbr></td>
+		<td>
+				<a href="http://archive.unwe.bg/razpisanie-prepodavatel.php?teachid=7859">Ас. д-р П.МИЛЕВ</a>
+		</td>
+		
+		<td>2067</td>
+	</tr>
+	<tr>
+		<td>
+			1315
+		</td>
+		<td>
+			понеделник
+		</td>
+		<td>10.45 - 12.15</td>
+		<td>Модели за изграждане на интернет приложения </td>
+		<td><abbr title="Упражнение">У</abbr></td>
+		<td>
+				<a href="http://archive.unwe.bg/razpisanie-prepodavatel.php?teachid=7859">Ас. д-р П.МИЛЕВ</a>
+		</td>
+		
+		<td>2067</td>
+	</tr>
+	<tr>
+		<td>
+			1315
+		</td>
+		<td>
+			вторник
+		</td>
+		<td>12.30 - 14.00</td>
+		<td>Програмиране в бази данни</td>
+		<td><abbr title="Упражнение">У</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/mradoev/?view=teaching">Гл.ас.  М.РАДОЕВ</a>
+		</td>
+		
+		<td>2067</td>
+	</tr>
+	<tr>
+		<td>
+			1315
+		</td>
+		<td>
+			сряда
+		</td>
+		<td>09.00 - 10.30</td>
+		<td>Технологии за изграждане на Уеб системи </td>
+		<td><abbr title="Упражнение">У</abbr></td>
+		<td>
+				<a href="http://blogs.unwe.bg/mmarzovanova/?view=teaching">Ас. д-р М.МЪРЗОВАНОВА</a>
+		</td>
+		
+		<td>2067</td>
+	</tr>
+	</tbody>
+	<tbody>
+	</tbody>
+</table>
+
+
+</body></html>
